@@ -1,0 +1,10 @@
+#add-panel{
+    margin: 100px;
+    /* border-block-end-color: unset; */
+    background: radial-gradient(black, transparent);
+}
+.panel-title{
+    padding: 10px;
+    /* margin: auto; */
+    margin-left: 355px;
+}
